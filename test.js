@@ -1,6 +1,7 @@
 console.log(1)
-console.log(2)
+function hello(){
+
+}
 console.log(3.5)
 console.log(4)
-console.log("dev")
-console.log("remote")
+
