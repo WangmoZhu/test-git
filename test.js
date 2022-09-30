@@ -1,5 +1,5 @@
 console.log(1)
-function hello(){
+function helo(){
 
 }
 console.log(3.5)
